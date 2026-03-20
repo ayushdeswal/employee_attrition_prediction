@@ -22,15 +22,14 @@ Using the IBM HR Analytics dataset, this project identifies the root causes of t
   * **Scikit-Learn:** Machine learning, preprocessing, and evaluation.
   * **Joblib:** Model serialization for deployment.
 
-## 📂 Project Structure
-```text
-├── HR-Employee-Attrition.csv          # Dataset (IBM HR Analytics)
-├── attrition_model.pkl                # Trained Logistic Regression model
-├── data_scaler.pkl                    # Scaler object for preprocessing new data
-├── HR_Attrition_Analysis.ipynb        # Full end-to-end analysis & modeling
-├── Strategic_Retention_Report.pdf     # Non-technical executive summary
-└── requirements.txt                   # List of dependencies
-```
+## 📁 Project Structure
+
+* `HR-Employee-Attrition.csv` - Dataset (IBM HR Analytics)
+* `attrition_model.pkl` - Trained Logistic Regression model
+* `data_scaler.pkl` - Scaler object for preprocessing new data
+* `HR_Attrition_Analysis.ipynb` - Full end-to-end analysis & modeling
+* `Strategic_Retention_Report.pdf` - Non-technical executive summary
+* `requirements.txt` - List of dependencies
 
 ## ⚙️ Installation & Setup
 
